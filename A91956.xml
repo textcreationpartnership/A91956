@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the chosen and betrusted knights, citizens, and burgesses, assembled in Parliament at Westminster. The humble petition of Alice Rolph, wife to Major Edmond Rolph, close prisoner at the Gate-house Westminster, &amp;c. Presented to the Honourable House of Commons, Iuly 10. 1648.</title>
+            <author>Rolph, Alice.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91956</idno>
+            <idno type="STC">Wing R1889</idno>
+            <idno type="STC">Thomason 669.f.12[73]</idno>
+            <idno type="STC">ESTC R210951</idno>
+            <idno type="EEBO-CITATION">99869699</idno>
+            <idno type="PROQUEST">99869699</idno>
+            <idno type="VID">162866</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91956)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162866)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f12[73])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the chosen and betrusted knights, citizens, and burgesses, assembled in Parliament at Westminster. The humble petition of Alice Rolph, wife to Major Edmond Rolph, close prisoner at the Gate-house Westminster, &amp;c. Presented to the Honourable House of Commons, Iuly 10. 1648.</title>
+                  <author>Rolph, Alice.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rolph, Edmond --  Imprisonment --  Early works to 1800.</term>
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+               <term>Prisoners --  Legal status, laws, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:162866:1" rendition="simple:additions"/>
+            <head>To the choſen and betruſted Knights, Citizens, and Burgeſſes, Aſſembled in Parliament at <hi>Weſtminſter.</hi> The humble Petition of <hi>Alice Rolph,</hi> wife to Major <hi>Edmond Rolph,</hi> cloſe priſoner at the Gate-houſe Weſtminſter, &amp;c.</head>
+            <opener>
+               <dateline>Preſented to the Honorable Houſe of Commons, <date>
+                     <hi>Iuly</hi> 10. 1648.</date>
+               </dateline>
+            </opener>
+            <opener>Sheweth,</opener>
+            <p>THat you are choſen and betruſted by the people to provide for their <hi>Weal,</hi> but not for their <hi>Woe;</hi> and to maintain their <hi>Laws</hi> and <hi>Liberties,</hi> which you have often promiſed, ſworn and declared to do, and for the preſervation of which you have engaged the Kingdom in a moſt deſperate and bloody War: In which ſervice, by your Command and Authority, your Petitioners Husband hath, for almoſt ſix years together, in judgment and conſci<g ref="char:EOLhyphen"/>ence, adventured his life, and hath always, to this day, continued faithful and unſpotted, and therefore may juſtly, in the largeſt extent, expect and challenge from you the utmoſt benefits and priviledges, the Laws and Liberties of <hi>England</hi> can afford; it being not only his undoubted inheritance and birth-right, but alſo the <hi>purchaſe which he hath earned with the hazard of his l<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fe, and price of his blood.</hi>
+            </p>
+            <p>Yet notwithſtanding, your Petitioners ſaid Husband, upon the falſe and lying information of one <hi>Oſbourne,</hi> and one <hi>Dowcet,</hi> who being conſcious of their own guilt and baſeneſs, in perfidiouſly betraying the truſt repoſed in them by this <hi>Honorable Houſe,</hi> in combining maliciouſly and wickedly, and plotting of their own heads, (without, nay contrary to all Authority) to <hi>convey away the perſon of the King,</hi> in theſe dangerous and tumultuous times, from the place of his preſent abode and reſidence by the Authority of this Honorable Houſe, to the apparent hazard of the more deſperate engaging this poor bleeding Kingdom anew in a bloody War, and to the hazard of the utter ruine and deſtruction thereof: For which perfidious treachery the ſaid <hi>Dowcet</hi> was im<g ref="char:EOLhyphen"/>priſoned, and the ſaid <hi>Oſbourne,</hi> conſcious of his own <hi>guilt,</hi> fled as a Delinquent: And now taking advantage of the troubleſomneſs of the times, and to encreaſe the fury and rage of the people, that ſo in a giddy and diſtempered Croud they may the better eſcape their deſerved puniſhment for their deſpe<g ref="char:EOLhyphen"/>rate and dangerous treachery, have moſt lyingly and maliciouſly invented and informed, that your Petitioners Husband <hi>declared to him the ſaid</hi> Osbourne <hi>that the Governor had received ſeveral Letters from the Army, intimating they deſired the King might be removed out of the way, either by poyſon or o<g ref="char:EOLhyphen"/>therwiſe, &amp;c.</hi> which they would perſwade the world to be the ground of their endeavoring his eſcape; which yet (notwithſtanding all their own aver<g ref="char:EOLhyphen"/>ments) they kept ſecret in their own breſts almoſt a moneth after they had entered into a confederacy for the <hi>Kings eſcape,</hi> without revealing it to any <hi>viſible Magiſtrate</hi> in the Kingdom; neither did they ever make uſe of ſuch an allegation to any of the three Souldiers that they drew into their Confederacy, though they had been long treating with them: All which, according to their own principles, doth (as your Petitioner is groundedly informed) by the Laws and Statutes of this Kingdom, render them liable, as <hi>Traytors,</hi> to loſe their lives, for their ſo long concealing a Treaſon of ſuch dangerous conſequence.</p>
+            <p>But may it pleaſe your Honours, your Petitioners Husband no ſooner heard of the ſaid lying information, but inſtantly and voluntarily (though he had been extream ſick for ſome days before) without ſo much as a ſummons, came from the <hi>Iſle of Wight</hi> to evidence his innocency to this Honorable Houſe, at whoſe open Bar he declared the truth in each particular, according to his knowledg, without either diminution or evaſion: And after that, being exceeding ill, with his diſtempers, retired to his Lodging in <hi>London,</hi> leaving Notes with divers of his acquaintance at <hi>Weſtminſter,</hi> of the place of his Lodging, in caſe any belonging to this Honorable Houſe, did enquire for him.</p>
+            <p>And, as a further demonſtration of his innocency, although he knew of the order for his Commitment, made by the Lords <hi>Iune</hi> 27. 1648. ſeveral days before it was executed, yet he never removed or left his Lodging, but contrariwiſe ſent a Letter, bearing date <hi>Iune</hi> 30. 1648. unto the Houſe of Lords, to cer<g ref="char:EOLhyphen"/>tifie them both of his abode, condition, and ready deſire to clear himſelf of all thoſe heinous crimes layd to his charge: All which are clear demonſtrations, that the <hi>juſtifying peace of an innocent and good conſcience</hi> did free him from any <hi>inward guilt</hi> in that particular.</p>
+            <p>Yet ſo it hath been, may it pleaſe your Honors, That the ſaid illegal Warrant, for your Petitioners Husbands Commitment, from the Lords (who by Law have no power over him, as hath lately been ſufficiently proved in the caſe of Sir <hi>Iohn Maynard</hi> Knight of the <hi>Bath,</hi> and an Honorable Member of this Houſe, and the <hi>four Aldermen of London,</hi> and <hi>Lieutenant Col. Iohn Lilburn, &amp;c.)</hi> hath been executed upon your Petitioners ſick Husband with more cruelty then ever was uſed againſt any of the Kingdoms <hi>greateſt declared enemies,</hi> having ſuffered many incivilities &amp; unchriſtian-like dealings by the appoint<g ref="char:EOLhyphen"/>ment, or at leaſt countenance of Mr <hi>Fane</hi> Gentleman Uſher of the Houſe of Lords, who would take no cognizance of your Petitioners Husbands ſick eſtate, notwithſtanding his <hi>Chirurgions</hi> then declared &amp; ſince by Affidavit before the Lords affirmed, that your Petitioners Husband <hi>could not be removed without apparent danger:</hi> Yet, almoſt to the hazard of his life, both in reſpect of his bodily diſtempers and the fury of the multitude, he was violently hurryed to the <hi>Gate-houſe</hi> Priſon at <hi>Weſtminſter,</hi> being never ſo much as <hi>examined,</hi> or carryed before a <hi>legal Magiſtrate,</hi> as by <hi>Law</hi> he <hi>ought;</hi> It being an Act ab<g ref="char:EOLhyphen"/>horred even by <hi>Pauls</hi> heathen Judges, <hi>viz. To condemn any man before he is heard, and he and his accuſer be brought face to face.</hi> And to heighten their cruelty, the Lords have ſince paſſed a <hi>ſentence</hi> of <hi>cloſe impriſonment</hi> upon your Petitioners Husband, denying him the benefit and aſſiſtance of his friends; which your Petitioner conceiveth to be contrary to all Law or Reaſon, and the very height of tyranny, <hi>That a man ſhall ſtand accuſed</hi> (nay without, and contrary to Law, <hi>condemned)</hi> for ſuch a heinous crime as <hi>Treaſon:</hi> And being ſick of body, almoſt to death, <hi>ſhould be lockt up and threatned to be laid in irons,</hi> and debarred all ways either to <hi>know</hi> what is in <hi>particular</hi> laid to his <hi>charge,</hi> or to make his <hi>lawful defence.</hi>
+            </p>
+            <p>The Premiſſes conſidered:</p>
+            <p>May it pleaſe your Honors, To take your Petitioners Husbands Condition into timely conſideration, (before his <hi>blood</hi> be added (by your neglect) to that <hi>flood</hi> which hath and doth overflow this <hi>Nation,</hi> and ſtill cryeth for <hi>vengeance)</hi> &amp; by your timely interpoſition give a ſtop unto theſe <hi>unparaleld, tyrannous,</hi> and <hi>unjuſt proceedings of the Lords,</hi> who one day after another uſurp a <hi>juriſdiction</hi> over <hi>Commoners</hi> in <hi>criminal caſes,</hi> and trample under feet the <hi>Laws</hi> and <hi>Liberties</hi> of <hi>England,</hi> ſeeing by Law it is provided and ordained, <hi>That Treaſons ſhall be tryable only at Common Law, in the ordinary Courts of Iuſtice, and not otherwiſe.</hi> And that your Petitioners Husband may forthwith by your Juſtice be freed from his unjuſt and illegal Impriſonment by vertue of the <hi>Lords illegal Warrant.</hi> And foraſmuch as if any perſon or perſons ſhall make a ſuggeſtion to the <hi>King</hi> or his <hi>Councel,</hi> he or they ought to find <hi>ſuffi<g ref="char:EOLhyphen"/>cient Surety</hi> to proſecute and make good the ſaid ſuggeſtion, as appears by the Statute of the 37, and 38. of <hi>Ed.</hi> 3. by your ſelves cited in the caſe of the Lord <hi>Kimbolton</hi> and the <hi>five impeachea Members;</hi> firſt part book Declar. pag. 77. That therefore if any perſon or perſons have any <hi>Crime in Law</hi> to lay unto your Petitioners Husbands charge; That he or they may be enforced to proſecute the ſame legally <hi>by way of Indictment and due proceſs of Law in an ordinary Court of Iuſtice,</hi> and give ſufficient ſecurity ſo to do; That ſo by a <hi>Legal Iudg ſworn</hi> to proceed according to <hi>Law,</hi> and a <hi>Iury</hi> of his <hi>Peers</hi> or <hi>Equals</hi> ſworn to judg <hi>according to evidence,</hi> according to the merit of his Cauſe he may receive either juſtification or condemnation, to which <hi>competent Iudges he appeals,</hi> and wholy refers himſelf. And laſtly, foraſmuch as by the confeſſion of the ſaid <hi>Oſbourne, Dowcet, &amp;c.</hi> they have acknowledged them<g ref="char:EOLhyphen"/>ſelves <hi>privy</hi> to the <hi>Deſign</hi> and <hi>Plot,</hi> with which they charge your Petitioners innocent Husband, and yet have concealed the ſame for the ſpace of three weeks and upwards, which <hi>by the Law is Treaſon;</hi> That therefore The ſaid <hi>Oſbourne</hi> and <hi>Dowcet,</hi> &amp;c. may be forthwith attached and impriſoned in or<g ref="char:EOLhyphen"/>der to a legal Tryal, and not ſuffered to continue free, and made uſe of only to accuſe and deſtroy the innocent.</p>
+            <closer>
+               <signed>And Your Petitioner ſhall pray, &amp;c.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
